@@ -43,6 +43,39 @@
       "zip": "44223",
       "email": "om@gmail.com",
       "id": 5
+    },
+    {
+      "firstname": "Shruti",
+      "lastname": "Hande",
+      "PhoneNumber": "789456123",
+      "address": "Kothrud",
+      "city": "Pune",
+      "state": "UP",
+      "zip": "789554",
+      "email": "shru@gmail.com",
+      "id": 6
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "patil",
+      "PhoneNumber": "321654987",
+      "address": "Mumbai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "442206",
+      "email": "patil77@gmail.com",
+      "id": 7
+    },
+    {
+      "firstname": "Manthan",
+      "lastname": "Nnanware",
+      "PhoneNumber": "123456987",
+      "address": "Bajaj Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "442203",
+      "email": "mandy@gmail.com",
+      "id": 8
     }
   ]
 }
