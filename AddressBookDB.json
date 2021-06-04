@@ -45,17 +45,6 @@
       "id": 5
     },
     {
-      "firstname": "Shruti",
-      "lastname": "Hande",
-      "PhoneNumber": "789456123",
-      "address": "Kothrud",
-      "city": "Pune",
-      "state": "UP",
-      "zip": "789554",
-      "email": "shru@gmail.com",
-      "id": 6
-    },
-    {
       "firstname": "Aditya",
       "lastname": "patil",
       "PhoneNumber": "321654987",
