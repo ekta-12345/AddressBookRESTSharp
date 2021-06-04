@@ -1,0 +1,7 @@
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\bin\Debug\AddressBookRESTSharp.exe.config
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\bin\Debug\AddressBookRESTSharp.exe
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\bin\Debug\AddressBookRESTSharp.pdb
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\obj\Debug\AddressBookRESTSharp.csprojAssemblyReference.cache
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\obj\Debug\AddressBookRESTSharp.csproj.CoreCompileInputs.cache
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\obj\Debug\AddressBookRESTSharp.exe
+D:\C#\AddressBookRESTSharp\AddressBookRESTSharp\obj\Debug\AddressBookRESTSharp.pdb
