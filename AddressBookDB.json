@@ -1,0 +1,48 @@
+{
+  "Contacts": [
+    {
+      "id": 1,
+      "firstname": "Ekta",
+      "lastname": "Kumbhare",
+      "PhoneNumber": "7709283353",
+      "address": "Aundh",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411007",
+      "email": "ektaa1@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Shraddha",
+      "lastname": "Sathe",
+      "PhoneNumber": "8788616248",
+      "address": "Pune",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "412105",
+      "email": "ss@gmail.com"
+    },
+    {
+      "firstname": "Pallavi",
+      "lastname": "Kumbhare",
+      "phoneNo": "321654987",
+      "address": "Nagpur",
+      "city": "Nagpur",
+      "state": "Maha",
+      "zip": "789554",
+      "email": "pallavi8@gmail.com",
+      "id": 3
+    },
+    {
+      "firstname": "Omprakash",
+      "lastname": "Khawshi",
+      "phoneNo": "123456987",
+      "address": "Alandi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "44223",
+      "email": "om@gmail.com",
+      "id": 5
+    }
+  ]
+}
